@@ -1,27 +1,27 @@
 INSERT INTO public.estados (nome, uf)VALUES('Acre', 'AC');
-INSERT INTO public.estados (nome, uf)VALUES('Alagoas', 'AL');
-INSERT INTO public.estados (nome, uf)VALUES('Amazonas', 'AM');
-INSERT INTO public.estados (nome, uf)VALUES('Amapá', 'AP');
-INSERT INTO public.estados (nome, uf)VALUES('Bahia', 'BA');
-INSERT INTO public.estados (nome, uf)VALUES('Ceará', 'CE');
-INSERT INTO public.estados (nome, uf)VALUES('Distrito Federal', 'DF');
-INSERT INTO public.estados (nome, uf)VALUES('Espírito Santo', 'ES');
-INSERT INTO public.estados (nome, uf)VALUES('Goiás', 'GO');
-INSERT INTO public.estados (nome, uf)VALUES('Maranhão', 'MA');
-INSERT INTO public.estados (nome, uf)VALUES('Minas Gerais', 'MG');
-INSERT INTO public.estados (nome, uf)VALUES('Mato Grosso do Sul', 'MS');
-INSERT INTO public.estados (nome, uf)VALUES('Mato Grosso', 'MT');
-INSERT INTO public.estados (nome, uf)VALUES('Pará', 'PA');
-INSERT INTO public.estados (nome, uf)VALUES('Paraíba', 'PB');
-INSERT INTO public.estados (nome, uf)VALUES('Pernambuco', 'PE');
-INSERT INTO public.estados (nome, uf)VALUES('Piauí', 'PI');
-INSERT INTO public.estados (nome, uf)VALUES('Paraná', 'PR');
-INSERT INTO public.estados (nome, uf)VALUES('Rio de Janeiro', 'RJ');
-INSERT INTO public.estados (nome, uf)VALUES('Rio Grande do Norte', 'RN');
-INSERT INTO public.estados (nome, uf)VALUES('Rondônia', 'RO');
-INSERT INTO public.estados (nome, uf)VALUES('Roraima', 'RR');
-INSERT INTO public.estados (nome, uf)VALUES('Rio Grande do Sul', 'RS');
-INSERT INTO public.estados (nome, uf)VALUES('Santa Catarina', 'SC');
-INSERT INTO public.estados (nome, uf)VALUES('Sergipe', 'SE');
-INSERT INTO public.estados (nome, uf)VALUES('São Paulo', 'SP');
-INSERT INTO public.estados (nome, uf)VALUES('Tocantins', 'TO');
+('Alagoas', 'AL'),
+('Amazonas', 'AM'),
+('Amapá', 'AP'),
+('Bahia', 'BA'),
+('Ceará', 'CE'),
+('Distrito Federal', 'DF'),
+('Espírito Santo', 'ES'),
+('Goiás', 'GO'),
+('Maranhão', 'MA'),
+('Minas Gerais', 'MG'),
+('Mato Grosso do Sul', 'MS'),
+('Mato Grosso', 'MT'),
+('Pará', 'PA'),
+('Paraíba', 'PB'),
+('Pernambuco', 'PE'),
+('Piauí', 'PI'),
+('Paraná', 'PR'),
+('Rio de Janeiro', 'RJ'),
+('Rio Grande do Norte', 'RN'),
+('Rondônia', 'RO'),
+('Roraima', 'RR'),
+('Rio Grande do Sul', 'RS'),
+('Santa Catarina', 'SC'),
+('Sergipe', 'SE'),
+('São Paulo', 'SP'),
+('Tocantins', 'TO'),
