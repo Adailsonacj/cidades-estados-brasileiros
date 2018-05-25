@@ -1,4 +1,4 @@
-INSERT INTO public.estados (nome, uf)VALUES('Acre', 'AC');
+INSERT INTO public.estados (nome, uf)VALUES('Acre', 'AC'),
 ('Alagoas', 'AL'),
 ('Amazonas', 'AM'),
 ('Amapá', 'AP'),
@@ -24,4 +24,4 @@ INSERT INTO public.estados (nome, uf)VALUES('Acre', 'AC');
 ('Santa Catarina', 'SC'),
 ('Sergipe', 'SE'),
 ('São Paulo', 'SP'),
-('Tocantins', 'TO'),
+('Tocantins', 'TO');
